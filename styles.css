@@ -16,6 +16,13 @@ html {
 .brandFont{
     font-family: 'Fondamento', cursive;
 }
+.brandText{
+    position: relative;
+    top:40px;
+    text-align: center;
+    font-size: 1em;
+    color: #393e46;
+}
 .fluidBgColor{
     position: relative;
     top:40px;
@@ -36,6 +43,7 @@ html {
 .linkGit{
     font-family: Consolas;
     position: relative;
+    color: #393e46;
     top: 50px;
     text-align: center;
     font-size: 2vw;
