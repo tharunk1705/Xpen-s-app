@@ -1,4 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Fondamento&family=Syncopate:wght@700&display=swap');
+
+html {
+    min-height: 100%;
+  }
+  
+  body {
+    min-height: 100vh;
+  }
+
 .navbarColor{
     background-color: #c4fb6d;
     color: #393e46;
@@ -8,6 +17,10 @@
     font-family: 'Fondamento', cursive;
 }
 .fluidBgColor{
+    position: relative;
+    top:40px;
+    height: 100%;
+    padding-bottom: 50px;
     background-color: #eeeeee !important;
 }
 .jumbotronBgColor{
