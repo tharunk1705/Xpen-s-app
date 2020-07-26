@@ -33,3 +33,10 @@ html {
     position: relative;
     top: 20px;
 }
+.linkGit{
+    font-family: Consolas;
+    position: relative;
+    top: 50px;
+    text-align: center;
+    font-size: 2vw;
+}
